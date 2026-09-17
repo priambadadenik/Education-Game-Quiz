@@ -1,0 +1,6 @@
+{
+  "name": "Game Edukasi Multi-Jenjang",
+  "description": "Game edukasi interaktif multi-jenjang (SD, SMP, SMA, SMK Kejuruan Teknik & Bisnis) dengan kuis berwaktu 10 soal, pembahasan lengkap, dan tingkat kesulitan fleksibel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
